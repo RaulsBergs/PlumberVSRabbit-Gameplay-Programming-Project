@@ -2,7 +2,7 @@
 
 Rabbit::Rabbit()
 {
-
+	amountOfRabbits = 0;
 }
 
 void Rabbit::output()
